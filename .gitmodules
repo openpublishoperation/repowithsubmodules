@@ -1,6 +1,0 @@
-[submodule "parentreop/images"]
-	path = parentreop/images
-	url = https://github.com/partychen/submodule_images
-[submodule "parentreop/submd"]
-	path = parentreop/submd
-	url = https://github.com/partychen/submodule_md
