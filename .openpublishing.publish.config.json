@@ -1,19 +1,11 @@
 {
-  "build_entry_point": "",
+  "build_entry_point": "op",
+  "package_version": "latest-prerelease",
+  "need_generate_pdf": true,
   "docsets_to_publish": [
     {
       "docset_name": "parentreop",
       "build_output_subfolder": "parentreop",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content"
-      }
-    },
-    {
-      "docset_name": "parentreop1",
-      "build_output_subfolder": "parentreop1",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,

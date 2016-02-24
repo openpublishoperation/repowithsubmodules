@@ -3,6 +3,7 @@ xhtml/
 packages/
 obj/
 _site/
+_pdf/
 Tools/NuGet/
 _site/
 
